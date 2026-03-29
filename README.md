@@ -1,9 +1,15 @@
 # 👨‍💻 About:
 Hi, I'm Navnit
+
 AI/ML Student | Aspiring AI Engineer 🚀
-Passionate about Artificial Intelligence, Machine Learning, and technology.
+
+Passionate about Artificial Intelligence,
+Machine Learning, and technology.
+
 Building projects in AI & ML | Exploring real-world applications.
+
 Always curious to explore new ideas and technologies.
+
 🔭 Currently exploring: Machine Learning
 
 ## 🌐 Socials:
